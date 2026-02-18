@@ -20,6 +20,3 @@
 flutter pub get
 flutter run
 ```
-
-## Автор
-Учебный проект для демонстрации навыков Flutter
